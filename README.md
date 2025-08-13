@@ -1,5 +1,5 @@
 
-de LLM Red Team Arsenal & Prompt Mutation Suite**  
+LLM Red Team Arsenal & Prompt Mutation Suite**  
 _For authorized security research, red teaming, and advanced bug bounty audit use only._
 
 ---
